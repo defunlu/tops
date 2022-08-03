@@ -1,14 +1,16 @@
-‌# Summary​
+# Table of contents
+
+* [README](README.md)
 
 ## Group 1​
 
-* [a](page1/README.md)    
-    * [aa](page1/page1-1.md)    
-    * [aa2](page1/page1-2.md)
-
-* [b](page2/README.md)    
-    * [bb](page2/page2-1.md) 
-    * [bb2](page2/page2-2.md)    
+* [a](group-1/a/README.md)
+  * [aa](group-1/a/aa.md)
+  * [aa2](group-1/a/aa2.md)
+* [b](group-1/b/README.md)
+  * [bb](group-1/b/bb.md)
+  * [bb2](group-1/b/bb2.md)
 
 ## Group 2​
-* [c](page3/README.md)
+
+* [c](group-2/c.md)
